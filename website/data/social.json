@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/ossbase-org/ossbase.org",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "Mastodon",
+        "link": "https://paperbay.org/@ossbase",
+        "image": "images/social/mastodon.svg"
+    }
+]

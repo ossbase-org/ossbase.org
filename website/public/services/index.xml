@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</title>
+    <link>//localhost:38335/services/</link>
+    <description>Recent content in Services on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
+    <atom:link href="//localhost:38335/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accounting</title>
+      <link>//localhost:38335/services/accounting/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>//localhost:38335/services/accounting/</guid>
+      <description>&lt;p&gt;Financial accounting (or financial accountancy) is the field of accounting concerned with the &lt;strong&gt;summary, analysis and reporting&lt;/strong&gt; of financial transactions related to a business.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Business Advisory</title>
+      <link>//localhost:38335/services/business-advisory/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <guid>//localhost:38335/services/business-advisory/</guid>
+      <description>Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses.</description>
+    </item>
+    <item>
+      <title>Business Sales</title>
+      <link>//localhost:38335/services/business-sales/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <guid>//localhost:38335/services/business-sales/</guid>
+      <description>&lt;p&gt;Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mergers</title>
+      <link>//localhost:38335/services/mergers/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      <guid>//localhost:38335/services/mergers/</guid>
+      <description>&lt;p&gt;Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Superannuation</title>
+      <link>//localhost:38335/services/superannuation/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      <guid>//localhost:38335/services/superannuation/</guid>
+      <description>&lt;p&gt;We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tax Preparation</title>
+      <link>//localhost:38335/services/tax-preperation/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>//localhost:38335/services/tax-preperation/</guid>
+      <description>Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations.</description>
+    </item>
+  </channel>
+</rss>
