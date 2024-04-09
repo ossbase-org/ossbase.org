@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</title>
+    <link>/members/</link>
+    <description>Recent content in Members on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 13:44:30 +1000</lastBuildDate>
+    <atom:link href="/members/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MISP</title>
+      <link>/members/misp/</link>
+      <pubDate>Tue, 09 Apr 2024 13:44:30 +1000</pubDate>
+      <guid>/members/misp/</guid>
+      <description>MISP is an open-source platform and standard designed for threat intelligence sharing, providing a structured environment to aggregate, model, store and distribute information.&#xA;For more information: https://www.misp-project.org/</description>
+    </item>
+  </channel>
+</rss>

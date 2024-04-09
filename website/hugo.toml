@@ -61,8 +61,8 @@ title = "ossbase.org - Empowering Open Source Security Through Support, Autonomy
     weight = 1
 
   [[menu.main]]
-    name = "Team"
-    url = "/team/"
+    name = "Members"
+    url = "/members/"
     weight = 2
 
   [[menu.main]]

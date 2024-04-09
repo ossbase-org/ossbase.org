@@ -6,7 +6,7 @@
     <description>Recent content in Homepage on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2024 17:01:34 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 13:44:30 +1000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CLA free</title>
@@ -16,39 +16,11 @@
       <description>CLA Free Initiative, Embracing Open Source with Developer Certificate of Origin (DCO) Introduction: Understanding CLA and DCO In the open source community, contributions and collaborations are the lifeblood that drive innovation and growth. However, managing these contributions requires careful consideration of legal and ethical aspects. Traditionally, many open source projects have used Contributor License Agreements (CLA) to manage contributions. However, there&amp;rsquo;s a growing shift towards using a Developer Certificate of Origin (DCO), and for good reasons.</description>
     </item>
     <item>
-      <title>Peter Van Eijk</title>
-      <link>/team/peter-van-eijk/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      <guid>/team/peter-van-eijk/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    <item>
-      <title>Sage Kirk</title>
-      <link>/team/sage-kirk/</link>
-      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      <guid>/team/sage-kirk/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    <item>
-      <title>Mike Vance</title>
-      <link>/team/mike-vance/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
-      <guid>/team/mike-vance/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    <item>
-      <title>Robert Johnson</title>
-      <link>/team/robert-johnson/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
-      <guid>/team/robert-johnson/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    <item>
-      <title>Tamara Ells</title>
-      <link>/team/tamara-ells/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
-      <guid>/team/tamara-ells/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+      <title>MISP</title>
+      <link>/members/misp/</link>
+      <pubDate>Tue, 09 Apr 2024 13:44:30 +1000</pubDate>
+      <guid>/members/misp/</guid>
+      <description>MISP is an open-source platform and standard designed for threat intelligence sharing, providing a structured environment to aggregate, model, store and distribute information.&#xA;For more information: https://www.misp-project.org/</description>
     </item>
     <item>
       <title>About</title>
