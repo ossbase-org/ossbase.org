@@ -34,6 +34,17 @@ In contrast, a Developer Certificate of Origin is a simpler, more contributor-fr
 
 By adopting the Developer Certificate of Origin, open source projects not only simplify their contribution process but also uphold the principles of freedom, transparency, and fairness that are central to the open source ethos. This shift encourages wider participation, fosters innovation, and helps safeguard the open nature of projects against restrictive licensing changes. Let's embrace DCO for a healthier, more vibrant open source community.
 
+## Logo
+
+If your open source or free software project does not require a CLA and copyright is shared among all contributors, you may use one of the following logos:
+
+- [![CLA FREE initiative](https://raw.githubusercontent.com/ossbase-org/ossbase.org/main/logos/cla-free-small.png)](https://ossbase.org/initiatives/cla-free/) 
+
+The markdown version is available below:
+
+~~~
+[![CLA FREE initiative](https://raw.githubusercontent.com/ossbase-org/ossbase.org/main/logos/cla-free-small.png)](https://ossbase.org/initiatives/cla-free/)
+~~~
 
 ## References
 
