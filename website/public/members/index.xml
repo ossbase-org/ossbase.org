@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</title>
-    <link>/members/</link>
+    <link>//localhost:1313/members/</link>
     <description>Recent content in Members on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Apr 2024 13:44:30 +1000</lastBuildDate>
-    <atom:link href="/members/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/members/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MISP</title>
-      <link>/members/misp/</link>
+      <link>//localhost:1313/members/misp/</link>
       <pubDate>Tue, 09 Apr 2024 13:44:30 +1000</pubDate>
-      <guid>/members/misp/</guid>
-      <description>MISP is an open-source platform and standard designed for threat intelligence sharing, providing a structured environment to aggregate, model, store and distribute information.&#xA;For more information: https://www.misp-project.org/</description>
+      <guid>//localhost:1313/members/misp/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/logo/misp.svg&#34; alt=&#34;MISP logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;MISP is an open-source platform and standard designed for threat intelligence sharing, providing a structured environment to aggregate, model, store and distribute information.&lt;/p&gt;&#xA;&lt;p&gt;For more information: &lt;a href=&#34;https://www.misp-project.org/&#34;&gt;https://www.misp-project.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

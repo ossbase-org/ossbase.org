@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Homepage on ossbase.org - Empowering Open Source Security Through Support, Autonomy, and Collaboration.</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Apr 2024 13:44:30 +1000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CLA free</title>
-      <link>/initiatives/cla-free/</link>
+      <link>//localhost:1313/initiatives/cla-free/</link>
       <pubDate>Sun, 07 Apr 2024 12:33:46 +1000</pubDate>
-      <guid>/initiatives/cla-free/</guid>
-      <description>CLA Free Initiative, Embracing Open Source with Developer Certificate of Origin (DCO) Introduction: Understanding CLA and DCO In the open source community, contributions and collaborations are the lifeblood that drive innovation and growth. However, managing these contributions requires careful consideration of legal and ethical aspects. Traditionally, many open source projects have used Contributor License Agreements (CLA) to manage contributions. However, there&amp;rsquo;s a growing shift towards using a Developer Certificate of Origin (DCO), and for good reasons.</description>
+      <guid>//localhost:1313/initiatives/cla-free/</guid>
+      <description>&lt;h2 id=&#34;cla-free-initiative-embracing-open-source-with-developer-certificate-of-origin-dco&#34;&gt;CLA Free Initiative, Embracing Open Source with Developer Certificate of Origin (DCO)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;introduction-understanding-cla-and-dco&#34;&gt;Introduction: Understanding CLA and DCO&lt;/h3&gt;&#xA;&lt;p&gt;In the open source community, contributions and collaborations are the lifeblood that drive innovation and growth. However, managing these contributions requires careful consideration of legal and ethical aspects. Traditionally, many open source projects have used Contributor License Agreements (CLA) to manage contributions. However, there&amp;rsquo;s a growing shift towards using a Developer Certificate of Origin (DCO), and for good reasons.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MISP</title>
-      <link>/members/misp/</link>
+      <link>//localhost:1313/members/misp/</link>
       <pubDate>Tue, 09 Apr 2024 13:44:30 +1000</pubDate>
-      <guid>/members/misp/</guid>
-      <description>MISP is an open-source platform and standard designed for threat intelligence sharing, providing a structured environment to aggregate, model, store and distribute information.&#xA;For more information: https://www.misp-project.org/</description>
+      <guid>//localhost:1313/members/misp/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/logo/misp.svg&#34; alt=&#34;MISP logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;MISP is an open-source platform and standard designed for threat intelligence sharing, providing a structured environment to aggregate, model, store and distribute information.&lt;/p&gt;&#xA;&lt;p&gt;For more information: &lt;a href=&#34;https://www.misp-project.org/&#34;&gt;https://www.misp-project.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Sun, 07 Apr 2024 17:01:34 +0700</pubDate>
-      <guid>/about/</guid>
-      <description>ossbase.org - Empowering Open Source Security Software Through Support, Autonomy, and Collaboration. ossbase.org is an organization dedicated to supporting secure and open-source security software, fostering their growth and development.&#xA;Objectives Establish a legal and secure framework for open source security projects. Uphold the autonomy of open source security projects, with ossbase.org serving as a supportive ally. Offer a streamlined, user-friendly structure for the development and management of open source security initiatives.</description>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;ossbaseorg---empowering-open-source-security-software-through-support-autonomy-and-collaboration&#34;&gt;ossbase.org - Empowering Open Source Security Software Through Support, Autonomy, and Collaboration.&lt;/h1&gt;&#xA;&lt;p&gt;ossbase.org is an organization dedicated to supporting secure and open-source security software, fostering their growth and development.&lt;/p&gt;&#xA;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Establish a legal and secure framework for open source security projects.&lt;/li&gt;&#xA;&lt;li&gt;Uphold the autonomy of open source security projects, with ossbase.org serving as a supportive ally.&lt;/li&gt;&#xA;&lt;li&gt;Offer a streamlined, user-friendly structure for the development and management of open source security initiatives.&lt;/li&gt;&#xA;&lt;li&gt;Facilitate testing and ensure interoperability among various open source security projects.&lt;/li&gt;&#xA;&lt;li&gt;Provide a sanctuary for orphaned or unmaintained open source projects or open data, ensuring continued software maintenance.&lt;/li&gt;&#xA;&lt;li&gt;Implement an emergency fund and contracting process to address critical vulnerabilities in unmaintained open source projects.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;core-rules&#34;&gt;Core Rules&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Respect the existing rules and practices of supported open source projects; avoid imposing changes that could harm existing processes or the community.&lt;/li&gt;&#xA;&lt;li&gt;Promote diversity in the ownership of open source projects. Ensure that the open source license is permanently fixed and cannot be altered.&lt;/li&gt;&#xA;&lt;li&gt;Provide support to the communities and users of open source projects, aligning with the broader interests of the global community.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Sun, 07 Apr 2024 17:01:34 +0700</pubDate>
-      <guid>/contact/</guid>
-      <description> ossbase.org c/o &amp;#34;Luxembourg House of Cybersecurity&amp;#34; g.i.e. 122, rue Adolphe Fischer L-1521 Luxembourg Grand-Duchy of Luxembourg </description>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;  ossbase.org&#xA;  c/o &amp;#34;Luxembourg House of Cybersecurity&amp;#34; g.i.e.&#xA;  122, rue Adolphe Fischer&#xA;  L-1521 Luxembourg&#xA;  Grand-Duchy of Luxembourg&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>
