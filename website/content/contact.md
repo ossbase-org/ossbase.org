@@ -6,8 +6,7 @@ layout: contact
 
 ~~~
   ossbase.org
-  c/o "Luxembourg House of Cybersecurity" g.i.e.
-  122, rue Adolphe Fischer
+  26, rue Adolphe Fischer
   L-1521 Luxembourg
   Grand-Duchy of Luxembourg
 ~~~
