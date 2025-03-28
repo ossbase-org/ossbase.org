@@ -71,6 +71,11 @@ title = "ossbase.org - Empowering Open Source Security Through Support, Autonomy
     weight = 3
 
   [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 3
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 4
