@@ -1,8 +1,14 @@
 [
   {
     "title": "CLA free initiative",
-    "description": "CLA",
+    "description": "CLA Free Initiative, Embracing Open Source with Developer Certificate of Origin (DCO)",
     "image": "images/features/noun_branding_1885335.svg",
     "url": "/initiatives/cla-free/"
+  },
+  {
+    "title": "Open Contributions Descriptor (OCD)",
+    "description": "The Open Contributions Descriptor (OCD) is an open, machine-readable JSON format that allows an organization to publish a structured description of its participation in the open ecosystem.",
+    "image": "images/features/noun_branding_1885335.svg",
+    "url": "/initiatives/open-countributions-descriptor/"
   }
 ]
