@@ -1,0 +1,17 @@
+<div class="member-summary">
+  {{ if .Params.image }}
+  <a class="member-summary-logo" href="{{ .RelPermalink }}" aria-label="View {{ .Title }} member details">
+    <img alt="{{ .Title }} logo" src="{{ .Params.image | relURL }}" />
+  </a>
+  {{ end }}
+
+  <div class="member-summary-content">
+    <h2 class="member-summary-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    {{ with .Params.jobtitle }}
+    <p class="member-summary-type">{{ . }}</p>
+    {{ end }}
+    <p class="member-summary-description">{{ .Summary | plainify | htmlUnescape }}</p>
+  </div>
+</div>
