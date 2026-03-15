@@ -73,6 +73,8 @@ This approach is inspired by established metadata practices such as `security.tx
 - Format description: [format.md](https://github.com/ossbase-org/Open-Contributions-Descriptor/blob/main/format.md)
 - JSON Schema: [ocd-schema.json](https://github.com/ossbase-org/Open-Contributions-Descriptor/blob/main/schema/ocd-schema.json)
 - Example discovery endpoint (MISP): [https://www.misp-project.org/.well-known/open-contributions.json](https://www.misp-project.org/.well-known/open-contributions.json)
+- Online editor and viewer: [Open Contributions Descriptor Viewer and Editor](https://ossbase-org.github.io/ocd-viewer/app/home.html)
+- [Open Contributions Descriptor — or how to map your contribution in open source, open data, and open standards](https://www.foo.be/2026/03/open-contributions-descriptor)
 
 ## Compatibility and extensions
 
