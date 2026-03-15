@@ -1,6 +1,6 @@
 ---
 title: "Open Contributions Descriptor (OCD)"
-date: 2026-02-25T12:33:46+10:00
+date: 2026-03-14T12:33:46+10:00
 draft: false
 featured: true
 weight: 2
@@ -19,6 +19,8 @@ OCD gives every organization a predictable discovery endpoint:
 `https://<organization-domain>/.well-known/open-contributions.json`
 
 This makes openness easier to index and automate for catalogs, dashboards, procurement checks, ecosystem mapping, and public transparency efforts.
+
+![Overview of the Open Contributions Descriptor (OCD)](/images/illustrations/ocd.png)
 
 ## What can be described
 
