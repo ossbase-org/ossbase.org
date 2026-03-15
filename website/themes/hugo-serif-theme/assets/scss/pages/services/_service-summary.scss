@@ -1,0 +1,29 @@
+.page-services-list {
+  .service-summary {
+    height: 100%;
+    padding: 24px;
+    background-color: $white-offset;
+    border-radius: 4px;
+    border: 1px solid rgba($black, 0.08);
+    display: flex;
+    flex-direction: column;
+
+    .service-content {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .service-title {
+      margin: 0 0 12px;
+      font-size: 24px;
+      line-height: 1.2;
+    }
+
+    p {
+      margin: 0;
+      color: $grey;
+      line-height: 1.55;
+    }
+  }
+}
