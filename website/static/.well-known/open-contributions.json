@@ -1,0 +1,110 @@
+{
+  "spec_version": "1.0",
+  "generated_at": "2026-03-15T08:39:30Z",
+  "organization": {
+    "name": "ossbase.org",
+    "domain": "ossbase.org",
+    "description": "ossbase.org is an organization dedicated to secure and support open-source security software, fostering their growth and development.",
+    "links": {
+      "homepage": "https://ossbase.org/",
+      "github_org": "https://github.com/ossbase-org"
+    }
+  },
+  "projects": [
+    {
+      "name": "Open-Contributions-Descriptor",
+      "description": "The Open Contributions Descriptor (OCD) is a machine-readable JSON format that allows an organization to describe its participation in the open ecosystem (open source, open data...)",
+      "status": "active",
+      "repository": {
+        "url": "https://github.com/ossbase-org/Open-Contributions-Descriptor",
+        "license": "NOASSERTION",
+        "type": "git",
+        "clone": "https://github.com/ossbase-org/Open-Contributions-Descriptor.git"
+      },
+      "links": {
+        "releases": "https://github.com/ossbase-org/Open-Contributions-Descriptor/releases"
+      },
+      "participate": {
+        "issues": "https://github.com/ossbase-org/Open-Contributions-Descriptor/issues",
+        "good_first_issues": "https://github.com/ossbase-org/Open-Contributions-Descriptor/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"
+      },
+      "release": {
+        "changelog": "https://github.com/ossbase-org/Open-Contributions-Descriptor/releases",
+        "security_policy": "https://github.com/ossbase-org/Open-Contributions-Descriptor/security/policy"
+      }
+    },
+    {
+      "name": "ossbase.org",
+      "description": "website",
+      "status": "active",
+      "repository": {
+        "url": "https://github.com/ossbase-org/ossbase.org",
+        "license": "NOASSERTION",
+        "type": "git",
+        "clone": "https://github.com/ossbase-org/ossbase.org.git"
+      },
+      "links": {
+        "releases": "https://github.com/ossbase-org/ossbase.org/releases"
+      },
+      "participate": {
+        "issues": "https://github.com/ossbase-org/ossbase.org/issues",
+        "good_first_issues": "https://github.com/ossbase-org/ossbase.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"
+      },
+      "release": {
+        "changelog": "https://github.com/ossbase-org/ossbase.org/releases",
+        "security_policy": "https://github.com/ossbase-org/ossbase.org/security/policy"
+      }
+    },
+    {
+      "name": "ocd-viewer",
+      "description": "Viewer for  Open Contributions Descriptor (OCD) ",
+      "status": "active",
+      "repository": {
+        "url": "https://github.com/ossbase-org/ocd-viewer",
+        "license": "NOASSERTION",
+        "type": "git",
+        "clone": "https://github.com/ossbase-org/ocd-viewer.git"
+      },
+      "links": {
+        "project_page": "https://ossbase-org.github.io/ocd-viewer/app/home.html",
+        "releases": "https://github.com/ossbase-org/ocd-viewer/releases"
+      },
+      "participate": {
+        "issues": "https://github.com/ossbase-org/ocd-viewer/issues",
+        "good_first_issues": "https://github.com/ossbase-org/ocd-viewer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"
+      },
+      "release": {
+        "changelog": "https://github.com/ossbase-org/ocd-viewer/releases",
+        "security_policy": "https://github.com/ossbase-org/ocd-viewer/security/policy"
+      },
+      "tags": [
+        "ocd",
+        "open-contributions-descriptor",
+        "opensource"
+      ]
+    },
+    {
+      "name": "hackathon-local-ssh-public-keys",
+      "description": "These public keys are collected for authenticating users against the data store servers",
+      "status": "active",
+      "repository": {
+        "url": "https://github.com/ossbase-org/hackathon-local-ssh-public-keys",
+        "license": "NOASSERTION",
+        "type": "git",
+        "clone": "https://github.com/ossbase-org/hackathon-local-ssh-public-keys.git"
+      },
+      "links": {
+        "releases": "https://github.com/ossbase-org/hackathon-local-ssh-public-keys/releases"
+      },
+      "participate": {
+        "issues": "https://github.com/ossbase-org/hackathon-local-ssh-public-keys/issues",
+        "good_first_issues": "https://github.com/ossbase-org/hackathon-local-ssh-public-keys/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"
+      },
+      "release": {
+        "changelog": "https://github.com/ossbase-org/hackathon-local-ssh-public-keys/releases",
+        "security_policy": "https://github.com/ossbase-org/hackathon-local-ssh-public-keys/security/policy"
+      }
+    }
+  ],
+  "extensions": {}
+}
