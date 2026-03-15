@@ -1,0 +1,11 @@
+<div class="initiative-summary">
+  <div class="initiative-summary-content">
+    <h2 class="initiative-summary-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <p class="initiative-summary-description">{{ .Summary | plainify | htmlUnescape | truncate 180 "…" }}</p>
+  </div>
+  <div class="initiative-summary-footer">
+    <a class="initiative-summary-link" href="{{ .RelPermalink }}">Learn more</a>
+  </div>
+</div>
